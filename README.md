@@ -8,7 +8,7 @@
 
 ## How to use it
 
-To use this widget, add a new script in the Scriptable app, paste in the contents of [airly-aqi.js](airly-aqi.js), and set your Airly API key.
+To use this widget, add a new script in the Scriptable app, paste in the contents of [airly-aqi.js](airly-aqi.js), and set your Airly API key. You can get an API key by registering at [developer.airly.org](https://developer.airly.org/).
 
 You can run the script directly from the app, add a new small or medium widget to your home screen, or ask Siri about the air quality.
 
